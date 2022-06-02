@@ -1,4 +1,5 @@
 # first_repo
+Python Project 
 File separator Project
 This is my first basic project which i am pushing on Github which i made using python .
 In this project the different types of files are merged into folders say for example if a folder has large number of files and you need to save them on the basis of there file type then doing it manually can be too much hectic and time wasting .
